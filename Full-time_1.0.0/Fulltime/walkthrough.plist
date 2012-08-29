@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>page1</key>
+	<dict>
+		<key>description</key>
+		<string>Tap each filter to show job listings for Full-time, Contract, Freelance, or Internship.</string>
+		<key>imageName</key>
+		<string>page1.png</string>
+		<key>title</key>
+		<string>Filters</string>
+	</dict>
+	<key>page2</key>
+	<dict>
+		<key>description</key>
+		<string>To change job categories, just tap on the title. Then select a category from the list.</string>
+		<key>imageName</key>
+		<string>page2.png</string>
+		<key>title</key>
+		<string>Categories</string>
+	</dict>
+	<key>page3</key>
+	<dict>
+		<key>description</key>
+		<string>Scroll through the jobs you find interesting, tap on it and see the full detail.</string>
+		<key>title</key>
+		<string>Job Listing</string>
+		<key>imageName</key>
+		<string>page3.png</string>
+	</dict>
+	<key>page4</key>
+	<dict>
+		<key>description</key>
+		<string>The job detail lets you apply for the job, share it, look at the company&apos;s web site, and see where they are located.</string>
+		<key>title</key>
+		<string>Job Detail</string>
+		<key>imageName</key>
+		<string>page4.png</string>
+	</dict>
+	<key>page5</key>
+	<dict>
+		<key>description</key>
+		<string>Send me an email if you have questions or comments. nor.san@nawdsign.com</string>
+		<key>title</key>
+		<string>Thank You!</string>
+		<key>imageName</key>
+		<string>page5.png</string>
+	</dict>
+</dict>
+</plist>

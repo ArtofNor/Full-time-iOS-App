@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>settings</key>
+	<dict>
+		<key>title</key>
+		<string>Preferences</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Jobs Shown</string>
+				<key>setting</key>
+				<string>perPage</string>
+				<key>image</key>
+				<string>jobs.png</string>
+				<key>id</key>
+				<string>numberofjobs</string>
+			</dict>
+		</array>
+	</dict>
+	<key>connections</key>
+	<dict>
+		<key>title</key>
+		<string>Connections</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Facebook</string>
+				<key>setting</key>
+				<string>fbconnect</string>
+				<key>image</key>
+				<string>facebook_icon.png</string>
+				<key>id</key>
+				<string>fbconnect</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Twitter</string>
+				<key>setting</key>
+				<string>twitconnect</string>
+				<key>image</key>
+				<string>twitter.png</string>
+				<key>id</key>
+				<string>twitconnect</string>
+			</dict>
+		</array>
+	</dict>
+	<key>about</key>
+	<dict>
+		<key>title</key>
+		<string>About Full-time</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Version</string>
+				<key>image</key>
+				<string>icon_fulltime.png</string>
+			</dict>
+		</array>
+	</dict>
+	<key>contact</key>
+	<dict>
+		<key>title</key>
+		<string>Contact</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Follow</string>
+				<key>setting</key>
+				<string>@FulltimeApp</string>
+				<key>image</key>
+				<string>twitter.png</string>
+				<key>id</key>
+				<string>twitter</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Follow me</string>
+				<key>setting</key>
+				<string>@nawDsign</string>
+				<key>image</key>
+				<string>twitter.png</string>
+				<key>id</key>
+				<string>twitter</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Email me</string>
+				<key>setting</key>
+				<string>nor.san@nawdsign.com</string>
+				<key>image</key>
+				<string>nawdsign_icon.png</string>
+				<key>id</key>
+				<string>email</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

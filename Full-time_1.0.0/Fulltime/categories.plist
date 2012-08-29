@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>category</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>All Jobs</string>
+			<key>id</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Back-end Developer</string>
+			<key>id</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UI Designer</string>
+			<key>id</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Front-end Development</string>
+			<key>id</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>App Development</string>
+			<key>id</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Management</string>
+			<key>id</key>
+			<integer>6</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Information Architecture</string>
+			<key>id</key>
+			<integer>7</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Content Strategy</string>
+			<key>id</key>
+			<integer>8</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miscellany</string>
+			<key>id</key>
+			<integer>9</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
